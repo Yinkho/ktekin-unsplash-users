@@ -28,7 +28,7 @@ export const Image = styled.img`
 `;
 
 export const UserCardContainer = styled.div`
-  width: 60%;
+  width: 55%;
   display: flex;
   align-items: center;
   justify-content: flex-start;
