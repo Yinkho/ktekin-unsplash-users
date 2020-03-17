@@ -38,5 +38,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://ktekin-unsplash-users.herokuapp.com"
+  "proxy": "http://localhost:8000"
 }
